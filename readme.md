@@ -1,3 +1,5 @@
+ORIGINAL PROJECT INSTRUCTIONS:
+
 # Top9 Movie Loader
 
 Top9 is an application that loads cover images for the top 9 movies matching search criteria provided by the user. 
